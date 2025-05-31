@@ -6,21 +6,9 @@ A backend project for managing wallets, transactions, and fraud detection using 
 
 1. Clone this repo
 2. Run `npm install`
-3. Add your `.env` file or with;
-   NODE_ENV=development
-   PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/digital-wallet
-   JWT_SECRET=your-secret-jwt-key
-   JWT_EXPIRES_IN=24h
-   # Email configuration 
-   EMAIL_USER=your-email@gmail.com
-   EMAIL_PASS=your-app-password
-   EMAIL_FROM=alerts@digitalwallet.com
-   # Admin email
-   ADMIN_EMAIL=admin@example.com
-  
-5. Start server with `npm run dev`
-6. Access Swagger Docs at `/api-docs` (at http://localhost:3000/api-docs)
+3. Add your `.env` file (or with my given configuration)
+4. Start server with `npm run dev`
+5. Access Swagger Docs at `/api-docs` (at http://localhost:3000/api-docs)
 
 ## Features
 
