@@ -13,21 +13,21 @@ A backend project for managing wallets, transactions, and fraud detection using 
 ## Features
 
 ### Core Features
-- ✅ User Authentication & Session Management (JWT)
-- ✅ Wallet Operations (Deposit, Withdraw, Transfer)
-- ✅ Transaction Processing & Validation
-- ✅ Basic Fraud Detection Logic
-- ✅ Admin & Reporting APIs
-- ✅ RESTful API Design
-- ✅ Swagger API Documentation
+-  User Authentication & Session Management (JWT)
+-  Wallet Operations (Deposit, Withdraw, Transfer)
+-  Transaction Processing & Validation
+-  Basic Fraud Detection Logic
+-  Admin & Reporting APIs
+-  RESTful API Design
+-  Swagger API Documentation
 
 ### Bonus Features
-- ✅ Scheduled Jobs for Daily Fraud Scans
-- ✅ Soft Delete for Accounts and Transactions
-- ✅ Email Alerts for Suspicious Transactions (Mocked)
-- ✅ Multi-currency Support
-- ✅ Rate Limiting
-- ✅ Security Headers
+-  Scheduled Jobs for Daily Fraud Scans
+-  Soft Delete for Accounts and Transactions
+-  Email Alerts for Suspicious Transactions (Mocked)
+-  Multi-currency Support
+-  Rate Limiting
+-  Security Headers
 
 ## Tech Stack
 
