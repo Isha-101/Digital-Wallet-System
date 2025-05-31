@@ -1,6 +1,6 @@
 # Digital Wallet System
 
-A backend project for managing wallets, transactions, and fraud detection using Node.js, Express, MongoDB.
+A backend project for managing wallets, transactions, and fraud detection using Node.js, Express, MongoDB, Swagger.
 
 ## Setup
 
